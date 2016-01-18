@@ -3,4 +3,5 @@ dhfjfsbfj
 <<<<<<< HEAD
  Creating a new branch is quick and simple.
 =====
+nihaoa
 >>>>>>> feature1

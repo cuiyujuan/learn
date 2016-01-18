@@ -4,4 +4,5 @@ dhfjfsbfj
  Creating a new branch is quick and simple.
 =====
 nihaoa
+Git is a software
 >>>>>>> feature1

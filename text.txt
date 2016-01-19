@@ -2,6 +2,6 @@ dhfjfsbfj
  yuanniyoumengweima
 <<<<<<< HEAD
  Creating a new branch is quick and simple.
-=====
-nihaoa
+====
+woxianghenibuyiyang
 >>>>>>> feature1
